@@ -304,7 +304,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use [Slack](https://slack.com/help/articles/212681477-Sign-in-to-Slack) for chatting, taking notes, and sharing URLs and bits of code.
+We will use <a href="https://slack.com/help/articles/212681477-Sign-in-to-Slack">Slack</a> for chatting, taking notes, and sharing URLs and bits of code.
 Registrants will be invited to the Slack workspace ahead of the workshop.
 </p>
 <hr/>
