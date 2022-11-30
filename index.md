@@ -16,7 +16,7 @@ enddate: 2022-12-02        # machine-readable end date for the workshop in YYYY-
 instructor: ["Abigail Sparling", "Caitlin Bakker", "Jennifer Stubbs"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Cory Brunson", "Dellena Bloom", "Nancy Ruzycki", "Amanda Markee", "Audrey Smith", "Caitlin Campbell"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["amarkee@floridamuseum.ufl.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+collaborative_notes: [https://slack.com/help/articles/212681477-Sign-in-to-Slack] # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -304,7 +304,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use [Slack](https://slack.com/help/articles/212681477-Sign-in-to-Slack) for chatting, taking notes, and sharing URLs and bits of code.
+We will use <a href="https://slack.com/help/articles/212681477-Sign-in-to-Slack">Slack</a> for chatting, taking notes, and sharing URLs and bits of code.
 Registrants will be invited to the Slack workspace ahead of the workshop.
 </p>
 <hr/>
